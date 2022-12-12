@@ -1,5 +1,5 @@
 # ProyectoIntegrador-Bugarmy
---------------------------------------------
+------------------------------------------------
 Importante:
 
 Activar soporte ANSI en la consola a correr.
